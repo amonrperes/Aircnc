@@ -1,3 +1,3 @@
 # aircnc
-Projeto resultado da Semana OmniStack #9
+Projeto delicinha resultado da Semana OmniStack #9
 
